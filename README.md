@@ -5,6 +5,15 @@ I just wanted to show that this conversion is possible for the people that were 
 
 ## Marlin Conversion ##
 I was still rocking the old frame with v rollers and the huge frame. I had tmc 2209 stepper motors for silent operation and sensorless homing.
+- hbot
+- tmc 2209
+- sensorless homing on x and y
+- probe on z
 
 ## Klipper ##
-I kinda got over the size of the printer and decided to make a new one with linear rails and such. I will upload more files as I go but im still tweaking a lot. Hopefully I can get to an endgame soon.
+I kinda got over the size of the printer and decided to make a new one with linear rails and such. I will upload more files as I go but I'm still tweaking a lot. Hopefully, I can get to an endgame soon.
+- hbot
+- tmc 2209
+- sensorless homing on x and y
+- probe on z
+- custom homing sequence using Klipper documentation and tips
